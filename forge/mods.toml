@@ -21,10 +21,3 @@ mandatory = true
 versionRange = "[@MINECRAFT_VERSION@,)"
 ordering = "NONE"
 side = "BOTH"
-
-[[dependencies.immersive_armors]]
-modId = "forge"
-mandatory = true
-versionRange = "[@FORGE_VERSION@,)"
-ordering = "NONE"
-side = "BOTH"
